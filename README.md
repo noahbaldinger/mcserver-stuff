@@ -8,3 +8,5 @@ Fabric loader (needed to install performance optimizations and mods for your cli
 Mods (for performance and other stuff)
 1. Download the 6.0.0 alpha from here: https://download.fo/vanilla
 2. Follow the instructions to install Fabulously Optimized for "Minecraft Launcher vanilla".
+
+![alt text](instructions.png)
