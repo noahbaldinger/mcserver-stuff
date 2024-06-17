@@ -10,3 +10,6 @@ Mods (for performance and other stuff)
 2. Follow the instructions to install Fabulously Optimized for "Minecraft Launcher vanilla".
 3. To get to your .minecraft folder, type in "%appdata%" in your startmenu and press Enter. At the top of File Explorer you should see a ".minecraft" folder.
 ![alt text](instructions.png)
+
+
+If you want a different resourepack or shaders you can add in the resourcepack or shaderpacks folders in .minecraft as well. 
